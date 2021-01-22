@@ -44,6 +44,6 @@ Reassuring results because Malignant neoplasm are well covered by the cancer reg
 
 
 ### A warning when a substantial prevalence change in 1998 is detected has been added to Risteys.
-https://risteys.finngen.fi
-An example: 
+- https://risteys.finngen.fi
+- An example: 
 ![alt text](https://raw.githubusercontent.com/dsgelab/jump1998/main/images/risteys.png)
