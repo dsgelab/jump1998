@@ -4,15 +4,15 @@
 
 To detect, for each disease endpoint, whether there is a significant increase in prevalence in 1998 likely due to introduction of outpatient register
 
-![alt text](https://github.com/dsgelab/jump1998/image/objective.png)
+![alt text](https://github.com/dsgelab/jump1998/images/objective.png)
 
 - Because many disease outcomes are missed before 1998:
- - Analyses that consider age at onset are not trustable
- - Bias is introduced due to swift change in prevalence
+	* Analyses that consider age at onset are not trustable
+	* Bias is introduced due to swift change in prevalence
 
 - Dataset: 
- - Nationwide Finnish health registry data (~ 5.7 Million individuals)
- - Construct the same definitions of the FinnGen endpoints
+	* Nationwide Finnish health registry data (~ 5.7 Million individuals)
+	* Construct the same definitions of the FinnGen endpoints
 
 ### We use Poisson Regression to model changes in  disease prevalence
 
